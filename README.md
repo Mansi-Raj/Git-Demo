@@ -1,6 +1,5 @@
-# Git-Demo
-
 Author: Mansi Raj
+<br>
 This repository contains a demonstration of how to use git for version control. The purpose is to
 illustrate the basic commands and concepts associated with using git, such as adding files to the
 repository, committing changes, viewing commit history, diff'ing between versions, merging branches
